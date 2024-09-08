@@ -241,11 +241,7 @@ function App() {
         </p10>
         <button className="foterbutton">CONTACT WITH US </button>
       </div>
-      <div className="icons">
-  <FontAwesomeIcon icon="fa-brands fa-instagram" />
-  <FontAwesomeIcon icon="fa-brands fa-linkedin" />
-  <FontAwesomeIcon icon="fa-brands fa-google-plus-g" />
-</div>
+
 
     </div>
   );

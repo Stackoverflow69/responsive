@@ -473,7 +473,7 @@ p6 {
 
   }
 }
-   
+
 
 
 
@@ -703,16 +703,4 @@ p10 {
   color: white;
   background-color: #06BED6;
   transition: 0.4s;
-}
-.icons{
-  display: flex;
-  background-color: white;
-  flex-direction: row;
-  width: 100%;
-  height: 300px;
-  justify-content: center;
-}
-.icons{
-  color: red;
-  size: 50px;  
 }
